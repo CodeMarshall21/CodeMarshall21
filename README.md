@@ -96,3 +96,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/CodeMarshall21/CodeMarshall21/output/snake.svg" alt="Snake animation" />
+
+###
