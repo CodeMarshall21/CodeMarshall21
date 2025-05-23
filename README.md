@@ -11,9 +11,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeMarshall21&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=CodeMarshall21&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0" height="" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeMarshall21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeMarshall21&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=CodeMarshall21&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0" height="" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeMarshall21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true" height="" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=CodeMarshall21&theme=onedark&column=9&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
