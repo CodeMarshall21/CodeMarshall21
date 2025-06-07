@@ -72,7 +72,7 @@
   <a href="mailto:k21keshav05@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.gg/keshav5023" target="_blank">
+  <a href="https://discord.gg/685dRywf" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/mostly.keshav/" target="_blank">
