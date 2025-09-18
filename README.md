@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/CodeMarshall21/CodeMarshall21/output/snake.svg" alt="Snake animation" width="85%" align="left" /><img src="https://66.media.tumblr.com/f0cfd3fec7b6ee9e5d769a29d1bd3ea1/767b67785fe371c5-48/s250x400/193610db395adb03f96292f647c1813a2e7cf090.gif" height="150" alt="Coding GIF" align="right" />
+<img src="https://raw.githubusercontent.com/CodeMarshall21/CodeMarshall21/output/snake.svg" alt="Snake animation" width="75%" align="left" /><img src="https://66.media.tumblr.com/f0cfd3fec7b6ee9e5d769a29d1bd3ea1/767b67785fe371c5-48/s250x400/193610db395adb03f96292f647c1813a2e7cf090.gif" height="150" alt="Coding GIF" align="right" />
 </div>
 
 ###
