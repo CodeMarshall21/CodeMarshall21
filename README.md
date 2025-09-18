@@ -85,7 +85,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.tenor.com/d6PUbZoQ2U4AAAAM/computer-gasoline.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/d6PUbZoQ2U4AAAAM/computer-gasoline.gif"  />
 
 ###
 
