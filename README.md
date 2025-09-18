@@ -85,15 +85,17 @@
 
 ###
 
-<img align="right" height="300" src="https://media.tenor.com/d6PUbZoQ2U4AAAAM/computer-gasoline.gif"  />
+<img align="center" height="300" src="https://media.tenor.com/d6PUbZoQ2U4AAAAM/computer-gasoline.gif"  />
 
 ###
 
+<!--
 <div align="left">
   <a href="https://open.spotify.com/user/x9sag9o40n01u8db7v1c3f5yq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316q7uv7mtx2e7cbiguj4k2w3ity&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+-->
 
 ###
 
