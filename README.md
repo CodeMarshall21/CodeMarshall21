@@ -83,15 +83,18 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="200" src="https://66.media.tumblr.com/f0cfd3fec7b6ee9e5d769a29d1bd3ea1/767b67785fe371c5-48/s250x400/193610db395adb03f96292f647c1813a2e7cf090.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/CodeMarshall21/CodeMarshall21/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/CodeMarshall21/CodeMarshall21/output/snake.svg" alt="Snake animation" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://66.media.tumblr.com/f0cfd3fec7b6ee9e5d769a29d1bd3ea1/767b67785fe371c5-48/s250x400/193610db395adb03f96292f647c1813a2e7cf090.gif" height="200" alt="Coding GIF" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!--
 ###
